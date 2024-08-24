@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tMNABUGS58I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hhaya\\source\\repos\\csBrowser\\csBrowser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hhaya\\.nuget\\packages\\microsoft.web.webview2\\1.0.2651.64\\microsoft.web.webview2.1.0.2651.64.nupkg.sha512"
+  ],
+  "logs": []
+}
